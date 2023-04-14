@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: curl_import_config
+      authentication_9e4d3a2fc8: rwamagana::stepzen.io+1000::03c4dd3d8af567f4ee3362d0711ef341ed7a55c1df1f8ae4aed45059cd14c4ac
